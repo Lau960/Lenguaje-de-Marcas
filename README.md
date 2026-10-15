@@ -2,14 +2,14 @@
 <html lang="es">
   <head>
     <!-- Esto es lo que se envía a la máquina -->
-    <title>La web de Jose Vicente</title>
+    <title>La web de Laura Sofia</title>
     <meta charset="utf-8">
   </head>
   <body>
     <!-- Esto es lo que se muestra al ser humano -->
     <header>
-      <h1>Jose Vicente Carratala</h1>
-      <h2>Profesor, programador y diseñador</h2>
+      <h1>Laura Sofia Arce</h1>
+      <h2>Estudiante</h2>
       <nav>
         <a href="#inicio">Inicio</a>
         <a href="#destacado">Destacado</a>
